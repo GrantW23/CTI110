@@ -1,2 +1,4 @@
-# CTI110
-CTI110 Repository
+# CTI110 Repository
+created for p1LAb1
+Washington
+9/22/24
